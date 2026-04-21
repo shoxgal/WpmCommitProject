@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: WpmCommitProject
+  gitServerName: sx_gh
+  gitUrl: https://github.com/shoxgal
+  gitUsername: shoxgal
+  gitBranch: main
