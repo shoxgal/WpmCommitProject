@@ -1,0 +1,10 @@
+version: "1.0"
+projectName: WpmCommitProject
+runtimes:
+- runtimeAlias: SX_ERT_06_SELF_MANAGED
+  assets:
+  - name: Untitled Workflow
+    type: workflow
+    uid: flbad8973ff9e54c62ab4fd5c08d57e195
+    stepId: a0
+    reference: project.wpmcommit.integrations:test_fs_1
