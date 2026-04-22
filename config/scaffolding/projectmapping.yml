@@ -8,3 +8,8 @@ runtimes:
     uid: flbad8973ff9e54c62ab4fd5c08d57e195
     stepId: a0
     reference: project.wpmcommit.integrations:test_fs_1
+  - name: test-wf-01
+    type: workflow
+    uid: flbad8973ff9e54c62ab4fd5c08d57e195
+    stepId: a1
+    reference: project.wpmcommit.integrations:test_fs_1
